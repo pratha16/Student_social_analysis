@@ -69,10 +69,13 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ### 2. Navigate into the project folder
 cd your-repo-name
+
 3. Install required libraries
 pip install pandas numpy matplotlib seaborn jupyter
+
 4. Run Jupyter Notebook
 jupyter notebook
+
 📌 Future Improvements
 Add machine learning models
 Build an interactive dashboard (Power BI / Streamlit)
